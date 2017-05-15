@@ -1,0 +1,23 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+
+* What new skills have you learned?
+ 
+
+There have been many new elements that I have learned so far. These include the Emphasis, Superscript, Strong, Figure and Horizontal Rule tags. 
+
+* What has been easy?
+ 
+
+I was already familiar with the basic formatting and syntax of HTML, so most of what we have done so far has been relatively easy. I just had to learn the new elements, as mentioned above, and how to use them.   
+
+* What has been difficult?
+ 
+
+I did come accross one dificulty the other day. I figured out that it wasn't the coding part that was difficult, but rather the thorough reading of directions. Through the leaning portion of this project, there was a quiz about making a mockup of the Redwoods image and its caption.The directions clearly stated that there were 2 ways to complete the quiz and we only had to choose one. So, aside from learning the new Figure tag, I made it difficult on myself because I was trying to statisfy both options. Which is obviously not possible. Once I figured that out, I was able to complete the quiz using the Figure tag.  
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+
+For the issue I encountered above, I eventually had to walk away from my computer because I was getting frustrated. I helped my fiance with making dinner and before we sat down to eat, I came back to the quiz. I re-read the directions, had that "face-to-palm" moment, and fixed my code to satisfy the requirement. 
